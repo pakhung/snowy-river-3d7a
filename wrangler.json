@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "snowy-river-3d7a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "007e57b6-f594-4349-8970-f6512cf8acee",
+      "database_name": "damp-hat-f75e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
